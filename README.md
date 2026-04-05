@@ -100,6 +100,30 @@ LLM-powered simulation engine for decision-making. Runs generative AI simulation
 
 ---
 
+## [AutoCouncil](https://github.com/shadmau/autocouncil)
+
+![GitHub stars](https://img.shields.io/github/stars/shadmau/autocouncil?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/shadmau/autocouncil)
+
+LLM council for reviewing agent plans and outputs. Council members independently score submissions as PASS/REVISE, then aggregate into a single judgment. Focused on structured evaluation with iterative revision loops.
+
+**Language:** Python
+
+**Author:** [shadmau](https://github.com/shadmau)
+
+---
+
+## [Co-Op](https://github.com/Afnanksalal/co-op)
+
+![GitHub stars](https://img.shields.io/github/stars/Afnanksalal/co-op?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/Afnanksalal/co-op)
+
+AI-powered advisory platform for startups. Provides expert guidance across legal, finance, investor relations, and competitive analysis using a multi-model LLM Council with mandatory cross-critique. Includes financial tools (runway/burn rate/valuation), pitch deck analyzer, and cap table simulator.
+
+**Language:** TypeScript
+
+**Author:** [Afnanksalal](https://github.com/Afnanksalal)
+
+---
+
 # Contributing
 
 Anyone is welcome to open a pull request to add a project to this list. Drop me a line at public@danielrosehill.com if you'd like me to add it manually.
