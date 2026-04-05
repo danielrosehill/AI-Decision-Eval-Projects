@@ -28,6 +28,18 @@ Claude Code model for decision evaluation
 
 ---
 
+## [Think Better](https://github.com/HoangTheQuyen/think-better)
+
+![GitHub stars](https://img.shields.io/github/stars/HoangTheQuyen/think-better?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/HoangTheQuyen/think-better)
+
+CLI tool and AI skill that injects structured decision frameworks into AI coding assistants (Claude Code, GitHub Copilot). Detects decisions and auto-applies 10 analytical frameworks (Reversibility Filter, Weighted Matrix, Pre-Mortem, etc.), 15 decomposition methods, and 12 cognitive bias detectors. Includes decision journaling for calibration tracking.
+
+**Language:** Go
+
+**Author:** [HoangTheQuyen](https://github.com/HoangTheQuyen)
+
+---
+
 ## [Thoughtbox](https://github.com/Kastalien-Research/thoughtbox)
 
 ![GitHub stars](https://img.shields.io/github/stars/Kastalien-Research/thoughtbox?style=social) ![GitHub last commit](https://img.shields.io/github/last-commit/Kastalien-Research/thoughtbox)
