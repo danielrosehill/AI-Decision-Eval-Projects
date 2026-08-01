@@ -54,6 +54,14 @@ Docker-based MCP server for multi-agent collaborative reasoning with an auditabl
 
 ---
 
+## [DAUDIT](https://www.daudit.net)
+
+A web-based decision-context engine that audits high-stakes decisions across five dimensions: World Model Gaps, Adversarial Risk, Theory of Mind, Decision State, and Confidence vs Evidence. Designed for founders, investors, and operators facing irreversible choices.
+
+**Type:** Web application (not open source)
+
+---
+
 # Multi-Criteria Decision Analysis
 
 Libraries and tools implementing formal decision analysis methodologies.
